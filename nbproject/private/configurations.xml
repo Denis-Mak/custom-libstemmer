@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="algorithms">
+        <df name="danish">
+        </df>
+        <df name="dutch">
+        </df>
+        <df name="english">
+        </df>
+        <df name="finnish">
+        </df>
+        <df name="french">
+        </df>
+        <df name="german">
+        </df>
+        <df name="german2">
+        </df>
+        <df name="hungarian">
+        </df>
+        <df name="italian">
+        </df>
+        <df name="kraaij_pohlmann">
+        </df>
+        <df name="lovins">
+        </df>
+        <df name="norwegian">
+        </df>
+        <df name="porter">
+        </df>
+        <df name="portuguese">
+        </df>
+        <df name="romanian">
+        </df>
+        <df name="russian">
+        </df>
+        <df name="spanish">
+        </df>
+        <df name="swedish">
+        </df>
+        <df name="turkish">
+        </df>
+      </df>
+      <df name="compiler">
+        <in>analyser.c</in>
+        <in>driver.c</in>
+        <in>generator.c</in>
+        <in>generator_java.c</in>
+        <in>header.h</in>
+        <in>space.c</in>
+        <in>syswords.h</in>
+        <in>syswords2.h</in>
+        <in>tokeniser.c</in>
+      </df>
+      <df name="doc">
+      </df>
+      <df name="examples">
+      </df>
+      <df name="include">
+        <in>libstemmer.h</in>
+      </df>
+      <df name="libstemmer">
+        <in>libstemmer.c</in>
+        <in>modules.h</in>
+      </df>
+      <df name="runtime">
+        <in>api.c</in>
+        <in>api.h</in>
+        <in>header.h</in>
+        <in>utilities.c</in>
+      </df>
+      <df name="src_c">
+        <in>stem_ISO_8859_1_danish.c</in>
+        <in>stem_ISO_8859_1_danish.h</in>
+        <in>stem_ISO_8859_1_dutch.c</in>
+        <in>stem_ISO_8859_1_dutch.h</in>
+        <in>stem_ISO_8859_1_english.c</in>
+        <in>stem_ISO_8859_1_english.h</in>
+        <in>stem_ISO_8859_1_finnish.c</in>
+        <in>stem_ISO_8859_1_finnish.h</in>
+        <in>stem_ISO_8859_1_french.c</in>
+        <in>stem_ISO_8859_1_french.h</in>
+        <in>stem_ISO_8859_1_german.c</in>
+        <in>stem_ISO_8859_1_german.h</in>
+        <in>stem_ISO_8859_1_hungarian.c</in>
+        <in>stem_ISO_8859_1_hungarian.h</in>
+        <in>stem_ISO_8859_1_italian.c</in>
+        <in>stem_ISO_8859_1_italian.h</in>
+        <in>stem_ISO_8859_1_norwegian.c</in>
+        <in>stem_ISO_8859_1_norwegian.h</in>
+        <in>stem_ISO_8859_1_porter.c</in>
+        <in>stem_ISO_8859_1_porter.h</in>
+        <in>stem_ISO_8859_1_portuguese.c</in>
+        <in>stem_ISO_8859_1_portuguese.h</in>
+        <in>stem_ISO_8859_1_spanish.c</in>
+        <in>stem_ISO_8859_1_spanish.h</in>
+        <in>stem_ISO_8859_1_swedish.c</in>
+        <in>stem_ISO_8859_1_swedish.h</in>
+        <in>stem_ISO_8859_2_romanian.c</in>
+        <in>stem_ISO_8859_2_romanian.h</in>
+        <in>stem_KOI8_R_russian.c</in>
+        <in>stem_KOI8_R_russian.h</in>
+        <in>stem_UTF_8_danish.c</in>
+        <in>stem_UTF_8_danish.h</in>
+        <in>stem_UTF_8_dutch.c</in>
+        <in>stem_UTF_8_dutch.h</in>
+        <in>stem_UTF_8_english.c</in>
+        <in>stem_UTF_8_english.h</in>
+        <in>stem_UTF_8_finnish.c</in>
+        <in>stem_UTF_8_finnish.h</in>
+        <in>stem_UTF_8_french.c</in>
+        <in>stem_UTF_8_french.h</in>
+        <in>stem_UTF_8_german.c</in>
+        <in>stem_UTF_8_german.h</in>
+        <in>stem_UTF_8_german2.c</in>
+        <in>stem_UTF_8_german2.h</in>
+        <in>stem_UTF_8_hungarian.c</in>
+        <in>stem_UTF_8_hungarian.h</in>
+        <in>stem_UTF_8_italian.c</in>
+        <in>stem_UTF_8_italian.h</in>
+        <in>stem_UTF_8_kraaij_pohlmann.c</in>
+        <in>stem_UTF_8_kraaij_pohlmann.h</in>
+        <in>stem_UTF_8_lovins.c</in>
+        <in>stem_UTF_8_lovins.h</in>
+        <in>stem_UTF_8_norwegian.c</in>
+        <in>stem_UTF_8_norwegian.h</in>
+        <in>stem_UTF_8_numeric.c</in>
+        <in>stem_UTF_8_numeric.h</in>
+        <in>stem_UTF_8_porter.c</in>
+        <in>stem_UTF_8_porter.h</in>
+        <in>stem_UTF_8_portuguese.c</in>
+        <in>stem_UTF_8_portuguese.h</in>
+        <in>stem_UTF_8_romanian.c</in>
+        <in>stem_UTF_8_romanian.h</in>
+        <in>stem_UTF_8_russian.c</in>
+        <in>stem_UTF_8_russian.h</in>
+        <in>stem_UTF_8_spanish.c</in>
+        <in>stem_UTF_8_spanish.h</in>
+        <in>stem_UTF_8_swedish.c</in>
+        <in>stem_UTF_8_swedish.h</in>
+        <in>stem_UTF_8_turkish.c</in>
+        <in>stem_UTF_8_turkish.h</in>
+      </df>
+      <in>Makefile</in>
+      <in>main.c</in>
+    </df>
+  </logicalFolder>
+  <projectmakefile>GNUmakefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>3</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_signals>
+        </gdb_signals>
+        <gdb_options>
+          <DebugOptions>
+            <option name="gdb_source_dirs" value="."/>
+            <option name="debug_command"
+                    value="&quot;${OUTPUT_PATH}&quot; -l num -i words.txt -o roots.txt"/>
+            <option name="debug_dir" value="D:\src\snowball_code\."/>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" -l num -i words.txt -o roots.txt</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}" -l num -i words.txt -o roots.txt</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <console-type>1</console-type>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
