@@ -53,10 +53,6 @@
         <in>syswords2.h</in>
         <in>tokeniser.c</in>
       </df>
-      <df name="doc">
-      </df>
-      <df name="examples">
-      </df>
       <df name="include">
         <in>libstemmer.h</in>
       </df>
